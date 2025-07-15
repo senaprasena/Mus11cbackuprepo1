@@ -18,6 +18,7 @@
 /out/
 
 # production
+backup-scripts/
 /build
 
 # misc
