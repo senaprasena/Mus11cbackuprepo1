@@ -46,3 +46,10 @@ music_content/
 
 # temporary env in development phase
 env.txt
+
+# test files that may contain secrets
+test-*.js
+test-*.ts
+
+# test scripts directory (may contain secrets)
+test-scripts/
